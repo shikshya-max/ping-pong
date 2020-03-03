@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1583241546 source:c:\users\dell\desktop\ping pong\cpaddle.cpp
+	"cPaddle.h"
+
+1583241546 c:\users\dell\desktop\ping pong\cpaddle.h
+	"cBall.h"
+
+1583241546 c:\users\dell\desktop\ping pong\cball.h
+	<iostream>
+	<time.h>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+
+1583241030 source:c:\users\dell\desktop\ping pong\main.cpp
+	"cGameManger.h"
+
+1583240947 c:\users\dell\desktop\ping pong\cgamemanger.h
+	"cPaddle.h"
+
+1583241546 source:c:\users\dell\desktop\ping pong\cball.cpp
+	"cBall.h"
+
+1583241341 source:c:\users\dell\desktop\ping pong\cgamemanger.cpp
+	"cGameManger.h"
+
